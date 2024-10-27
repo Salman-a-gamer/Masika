@@ -37,6 +37,36 @@ Menstrual Cycle Tracker made during CBIT Hacktoberfest'24
 </tr>
 </table>
 
+## Objective
+
+To empower women with extensive tools for tracking menstrual health.
+
+## Features
+
+Tracking: Stores your data securely on Cycle tracker, mood tracker, symptom, intensity tracker, medication and supplement tracker
+Data Visualisation: Cycle phase, symptom tracker, monthly summary
+Personal Insights: Get personal notifications and daily reminders and insights based on your age and cycle length
+
+## Tech Stack
+
+Used React for component based front-end development, Tailwind CSS for easy styling and Material UI for reusable UI components
+Firebase for storing data and back-end.
+
+## Uniqueness
+- Implemented a special Chat bot using Chatbase.co.
+- Storing and displaying medication and supplements data provided.
+- Monthly summarisation contains list of all symptoms with average intensity and mood distribution throughout the menstrual cycle.
+
+## Future Scope
+- Using real time data of local medical specialists to schedule appointments.
+- Instant ordering and scheduled ordering of medical supplies using market platforms.
+- Syncing with wearable devices for data such as stress.
+- Using actionable feedback to improve the platform.
+- Enforcing custom notification based on medications to be taken.
+
+
+
+
 ## Presentation
 
 [![Watch the video](https://github.com/user-attachments/assets/07e60b27-0a21-4fc9-b222-5ce5a96a1010
