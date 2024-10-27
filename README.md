@@ -13,7 +13,7 @@ Menstrual Cycle Tracker made during CBIT Hacktoberfest'24
 
 <img src="https://github.com/user-attachments/assets/0ed415ad-aafb-4193-baf2-048dcce763ce" height="auto" width="300">
 
-## Team
+## Team - Red Bug Redemption
 <table>
 <tr>
   <th>Team Member</th>
