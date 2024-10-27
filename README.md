@@ -20,22 +20,23 @@ Menstrual Cycle Tracker made during CBIT Hacktoberfest'24
   <th>Role</th>
 </tr>
 <tr>
-  <td>Shastha Tyarla</td>
+  <td><a href="https://github.com/Lonelyguy123">Shastha Tyarla</a></td>
   <td>Team Lead & Coding</td>
 </tr>
 <tr>
-  <td>Bhanu Prakash Kokku</td>
+  <td><a href="https://github.com/humbledneuron">Bhanu Prakash Kokku</a></td>
   <td>Coding & Bug Fixing</td>
 </tr>
 <tr>
-  <td>Aryan Karamtoth</td>
+  <td><a href="https://github.com/spaciouscoder78">Aryan Karamtoth</a></td>
   <td>Deployment & Documentation</td>
 </tr>
 <tr>
-  <td>Salman Imran Syed</td>
+  <td><a href="https://github.com/Salman-a-gamer">Salman Imran Syed</a></td>
   <td>Presentation & Bug Fixing</td>
 </tr>
 </table>
+
 ## Presentation
 
 [![Watch the video](https://github.com/user-attachments/assets/07e60b27-0a21-4fc9-b222-5ce5a96a1010
