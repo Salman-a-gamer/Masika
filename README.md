@@ -15,4 +15,5 @@ Menstrual Cycle Tracker made during CBIT Hacktoberfest'24
 
 ## Presentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hTnPbJe9CAY?si=rHnhH1qfVm1VKXd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://github.com/user-attachments/assets/07e60b27-0a21-4fc9-b222-5ce5a96a1010
+)](https://www.youtube.com/watch?v=hTnPbJe9CAY)
