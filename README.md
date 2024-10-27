@@ -14,7 +14,7 @@ Menstrual Cycle Tracker made during CBIT Hacktoberfest'24
 <img src="https://github.com/user-attachments/assets/0ed415ad-aafb-4193-baf2-048dcce763ce" height="auto" width="300">
 
 ## Team
-
+<table>
 <tr>
   <th>Team Member</th>
 </tr>
@@ -30,7 +30,7 @@ Menstrual Cycle Tracker made during CBIT Hacktoberfest'24
 <tr>
   <td>Salman Imran Syed</td>
 </tr>
-
+</table>
 ## Presentation
 
 [![Watch the video](https://github.com/user-attachments/assets/07e60b27-0a21-4fc9-b222-5ce5a96a1010
