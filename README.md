@@ -8,7 +8,7 @@
 
 ## Developed As Part Of
 
-<img src="https://github.com/user-attachments/assets/0ed415ad-aafb-4193-baf2-048dcce763ce" height="300" width=auto>
+<img src="https://github.com/user-attachments/assets/0ed415ad-aafb-4193-baf2-048dcce763ce" height="auto" width="300">
 
 
 Menstrual Cycle Tracker made during CBIT Hacktoberfest'24
