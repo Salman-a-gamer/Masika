@@ -17,18 +17,23 @@ Menstrual Cycle Tracker made during CBIT Hacktoberfest'24
 <table>
 <tr>
   <th>Team Member</th>
+  <th>Role</th>
 </tr>
 <tr>
   <td>Shastha Tyarla</td>
+  <td>Team Lead & Coding</td>
 </tr>
 <tr>
   <td>Bhanu Prakash Kokku</td>
+  <td>Coding & Bug Fixing</td>
 </tr>
 <tr>
   <td>Aryan Karamtoth</td>
+  <td>Deployment & Documentation</td>
 </tr>
 <tr>
   <td>Salman Imran Syed</td>
+  <td>Presentation & Bug Fixing</td>
 </tr>
 </table>
 ## Presentation
