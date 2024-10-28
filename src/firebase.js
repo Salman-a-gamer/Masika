@@ -4,7 +4,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getFirestore, enableIndexedDbPersistence, collection, getDocs, addDoc, updateDoc, deleteDoc, doc } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCcA9Xw2jSEDlBw-HnVdegz1xmQ_acdE4I",
+  apiKey: APIKEY,
   authDomain: "project-5a02a.firebaseapp.com",
   projectId: "project-5a02a",
   storageBucket: "project-5a02a.appspot.com",
